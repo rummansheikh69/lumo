@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Cinzel+Decorative:wght@400;700;900&family=Madimi+One&family=Passion+One:wght@400;700;900&family=Sora:wght@100..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Sora", sans-serif;
+}
+
+.hero {
+  font-family: "Anton", sans-serif;
+}
+
+.heading {
+  font-family: "Passion One", sans-serif;
+}
+.ex {
+  font-family: "Madimi One", sans-serif;
+}
+
+.next {
+  font-family: "Cinzel Decorative", serif;
+}
