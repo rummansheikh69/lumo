@@ -184,7 +184,7 @@ function App() {
             </div>
           </div>
           <div className=" w-full mt-10">
-            <div className="  md:float-end  w-full md:w-72 rounded-3xl border-thunder p-3 border-2 h-80">
+            <div className="  md:float-start  w-full md:w-72 rounded-3xl border-thunder p-3 border-2 h-80">
               <div className=" h-1/3 w-full flex items-center justify-center">
                 <h1 className=" text-center hero text-2xl ">4. Swap $LUMO</h1>
               </div>
