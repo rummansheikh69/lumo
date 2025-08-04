@@ -4,7 +4,7 @@ import { useState } from "react";
 import { MdOutlineDone } from "react-icons/md";
 
 function App() {
-  const address = "25Y9nsE4TM66yuuwfqNjCaEKYGt1iLpeQm49HV5kbonk";
+  const address = "3bzsttaQUnhYhLAACiSZY4NsTNuR2v3aDzFYTWwJbonk";
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
