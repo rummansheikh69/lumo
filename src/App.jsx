@@ -43,7 +43,7 @@ function App() {
                 <FaXTwitter className=" text-black" />
               </a>
               <a
-                href="https://letsbonk.fun/token/FBRdo29auC835yx8NgRTN7CpQRPW1A9aWGbb4Bgtbonk"
+                href="https://letsbonk.fun/token/3bzsttaQUnhYhLAACiSZY4NsTNuR2v3aDzFYTWwJbonk"
                 className=" px-5 py-2 border border-white rounded-full bg-thunder"
               >
                 <p className=" text-black text-base next font-semibold leading-none">
@@ -64,7 +64,7 @@ function App() {
           <div className=" flex items-center gap-5 mt-10">
             <div className=" px-5 py-2 rounded-full border-2 border-white shadow-[2px_3px_0px_0px_#ffffff] bg-yellow-400">
               <a
-                href="https://letsbonk.fun/token/FBRdo29auC835yx8NgRTN7CpQRPW1A9aWGbb4Bgtbonk"
+                href="https://letsbonk.fun/token/3bzsttaQUnhYhLAACiSZY4NsTNuR2v3aDzFYTWwJbonk"
                 target="_blank"
               >
                 <p className=" text-zinc-800 text-sm whitespace-nowrap md:text-base next font-semibold leading-none">
