@@ -20,7 +20,7 @@ function App() {
         {/* navbar  */}
         <div className=" w-full px-5 md:px-32">
           <div className=" w-full py-4 flex items-center justify-between">
-            <h1 className=" text-2xl next font-semibold">LUMO</h1>
+            <h1 className=" text-2xl next font-semibold">SIN</h1>
             <div className=" hidden md:flex items-center gap-5 px-10 py-2.5 border border-white rounded-full">
               <a href="/" className=" text-white text-sm">
                 Home
@@ -68,7 +68,7 @@ function App() {
                 target="_blank"
               >
                 <p className=" text-zinc-800 text-sm whitespace-nowrap md:text-base next font-semibold leading-none">
-                  BUY $LUMO
+                  BUY $SIN
                 </p>
               </a>
             </div>
@@ -87,16 +87,16 @@ function App() {
 
       <div className=" w-full py-4 border-y-2 border-zinc-200 px-5 md:px-10 bg-main">
         <div className=" flex items-center gap-14">
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
-          <p className=" text-2xl font-medium ex text-white">$LUMO</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
+          <p className=" text-2xl font-medium ex text-white">$SIN</p>
         </div>
         <div className=" flex items-center justify-center">
           <div className=" border-b-2 border-zinc-200 my-5 w-1/2"></div>
@@ -126,12 +126,12 @@ function App() {
         <div className=" w-full h-full flex items-center justify-center">
           <div className=" p-5 md:w-1/3 w-full rounded-xl backdrop-blur-sm bg-white/20 border border-zinc-300">
             <p className=" text-center leading-7 text-xl text-thunder next">
-              When night falls, LUMO awakens. He doesn't wait for silence — he
+              When night falls, SIN awakens. He doesn't wait for silence — he
               runs toward the storm. Raindrops blur the jungle leaves as he
               leaps over rivers, opens glowing portals with his hands, and reads
               forgotten books beneath his lantern’s soft hum. The world sleeps.
-              LUMO explores. Not a meme, not a myth — but a beacon of wonder
-              cast into the dark. LUMO is the frog who turned the night into his
+              SIN explores. Not a meme, not a myth — but a beacon of wonder
+              cast into the dark. SIN is the frog who turned the night into his
               playground. And now, he’s lighting up Solana.
             </p>
           </div>
@@ -186,12 +186,12 @@ function App() {
           <div className=" w-full mt-10">
             <div className="  md:float-start  w-full md:w-72 rounded-3xl border-thunder p-3 border-2 h-80">
               <div className=" h-1/3 w-full flex items-center justify-center">
-                <h1 className=" text-center hero text-2xl ">4. Swap $LUMO</h1>
+                <h1 className=" text-center hero text-2xl ">4. Swap $SIN</h1>
               </div>
               <div className=" h-2/3 flex items-center justify-center px-2 md:px-4 w-full bg-thunder rounded-2xl">
                 <p className=" text-center text-black">
-                  Click and select $LUMO token or paste the Token Contract
-                  Address into Bonk and swap SOL for $LUMO.
+                  Click and select $SIN token or paste the Token Contract
+                  Address into Bonk and swap SOL for $SIN.
                 </p>
               </div>
             </div>
@@ -297,7 +297,7 @@ function App() {
       <div className=" py-10 bg-main flex flex-col items-center">
         <p className=" text-center next text-2xl mb-3">
           {" "}
-          © {new Date().getFullYear()} LUMO
+          © {new Date().getFullYear()} SIN
         </p>
         <div className=" flex items-center gap-3">
           <a
